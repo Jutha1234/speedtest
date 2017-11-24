@@ -11,7 +11,7 @@ import (
 
 	"github.com/Jutha1234/speedtest/misc"
 	"github.com/Jutha1234/speedtest/print"
-	"github.com/Jutha1234/speedtest/sthttp"
+	"github.com/Jutha1234/speedtest/shttp"
 )
 
 var (
