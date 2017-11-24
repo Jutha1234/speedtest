@@ -13,9 +13,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/netkasystem/NetkaProbe/speedtest/coords"
-	"github.com/netkasystem/NetkaProbe/speedtest/misc"
-	"github.com/netkasystem/NetkaProbe/speedtest/stxml"
+	"github.com/Jutha1234/speedtest/coords"
+	"github.com/Jutha1234/speedtest/misc"
+	"github.com/Jutha1234/speedtest/stxml"
 )
 
 // Config struct holds our config (users current ip, lat, lon and isp)

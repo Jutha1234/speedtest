@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/netkasystem/NetkaProbe/speedtest/sthttp"
+	"github.com/Jutha1234/speedtest/sthttp"
 )
 
 // Server prints the results in "human" format
