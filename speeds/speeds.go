@@ -70,6 +70,7 @@ func (SpeedTest *SpeedTest) Download(server sthttp.Server) float64 {
 			dlSpeed = 0.0
 			//log.Fatal(err)
 		}
+		//fmt.Println("dlSpeed :", dlSpeed)
 		if !SpeedTest.Quiet && !SpeedTest.Debug && !SpeedTest.Report {
 			fmt.Printf(".")
 		}
